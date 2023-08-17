@@ -1,0 +1,9 @@
+torchvision
+albumentations==1.2.1
+einops==0.4.1
+torchsummary==1.5.1
+tqdm==4.64.0
+scikit-image==0.18.3
+scikit-learn==1.1.1
+torchmetrics==0.9.3
+fightingcv_attention
